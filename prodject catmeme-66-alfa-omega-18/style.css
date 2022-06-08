@@ -24,3 +24,20 @@ flex: 1 0 auto;
 .footer {
 flex: 0 0 auto;
 }
+.menu ul {
+    display: flex
+    justify-content: space-around
+}
+. a li {
+    list-style: none;
+}
+. a {
+    text-decoration: none;
+}
+. a:hover {
+    color:aqua
+    font
+}
+.menu {
+    height: 50px
+}
