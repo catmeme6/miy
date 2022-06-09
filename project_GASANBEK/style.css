@@ -1,0 +1,60 @@
+a {
+    color: red ;
+    text-decoration: none;
+}
+body {
+    background-color: lightgray;
+    color: darkred
+    
+}
+* {
+margin: 0;
+padding: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+display: flex;
+flex-direction: column;
+min-height: 100%;
+}
+.content {
+flex: 1 0 auto;
+}
+.footer {
+flex: 0 0 auto;
+}
+.menu ul {
+    display: flex
+    justify-content: space-around
+}
+. a li {
+    list-style: none;
+}
+. a {
+    text-decoration: none;
+}
+. a:hover {
+    color:aqua
+    font
+}
+.menu {
+    height: 50px
+}
+.name {
+    text-align: center;
+}
+.country {
+    text-align: center;
+}
+.verh {
+    font-size: 25px;
+}
+ul {
+    display: inline;
+}
+li {
+    display: inline;
+    margin-right: 1%
+}
