@@ -1,0 +1,90 @@
+a {
+    color: red ;
+    text-decoration: none;
+}
+body {
+   background: url(img/karta.png) ;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: cover;
+    color: darkred
+    
+}
+* {
+margin: 0;
+padding: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+display: flex;
+flex-direction: column;
+min-height: 100%;
+}
+.content {
+flex: 1 0 auto;
+}
+footer {
+flex: 0 0 auto;
+margin-left: 255px;
+margin-right: 255px;
+margin-top: 35%;
+background-color: lightgray;
+}
+.menu ul {
+    display: flex
+    justify-content: space-around
+        
+}
+. a li {
+    list-style: none;
+}
+. a {
+    text-decoration: none;
+}
+. a:hover {
+    color:aqua
+    font
+}
+.menu {
+    height: 50px
+}
+.name {
+    text-align: center;
+}
+.country {
+    text-align: center;
+}
+.verh {
+    font-size: 25px;
+}
+ul {
+    display: inline;
+}
+li {
+    display: inline;
+    margin-right: 1%
+}
+.txt {
+    margin-left: 255px;
+    margin-right: 255px;
+    
+}
+.zagalovok{
+    margin-left: 255px;
+margin-right: 255px;
+}
+.puk {
+    margin-top: 10px; 
+}
+.darkland_f {
+    margin-top: 10px;
+}
+.f_up {
+    margin-top: 39.785%;
+}
+.darkred {
+    margin-top: 1%;
+}
