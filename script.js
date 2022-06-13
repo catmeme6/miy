@@ -9,5 +9,5 @@ var Comment = document.getElementById("Коментария").value
 element1.textContent = Nik;
 element2.textContent = Comment;
 text.append(element1, element2, hr);
-}
 
+}

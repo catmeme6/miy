@@ -106,3 +106,7 @@ margin-right: 255px;
 #kom {
     background-color: lightgray;
 }
+
+p {
+    word-break: break-all;
+}
