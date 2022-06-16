@@ -1,6 +1,6 @@
 let text = document.getElementById('text');
 let hr = document.getElementById('hr');
-function showData (event){
+function showData (event){   
 var hr = document.createElement('hr');
 var element1 = document.createElement('p');
 var element2 = document.createElement('p');
